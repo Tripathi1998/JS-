@@ -1,0 +1,45 @@
+.leftside,.rightside{
+    height:100vh;
+}
+.leftside{
+  
+    background-image:url(images/Weather9.jpg);
+    background-size: 700px 700px;
+    background-repeat: no-repeat;
+}
+.rightside{
+   background-image:url(images/Weather11.jpg);
+    background-size: 700px 700px;
+    background-repeat: no-repeat;
+    
+    max-width: 700px;
+    position: relative;
+    padding-top: 90px;
+    padding-right:90px;
+    padding-left:90px;
+    
+}
+.change-location{
+    padding: 50px;
+    font-size: medium ;
+}
+.label{
+    padding: 20px;
+    font-size: x-large;
+}
+.time{
+    max-height:250px ;
+}
+.icon{
+    
+    position: relative;
+    top: -50px;
+    border-radius: 80%;
+    border:  solid #333;
+    width: 100px;
+    margin-bottom: -50px;
+}
+  
+
+    
+
